@@ -1,10 +1,4 @@
+# フロントエンドライブラリ開発<br>のためのサービス・ツール
 
-# Reveal.js and Yeoman is Awesomeness
-
-From the terminal, pop in:
-
-  ```yo reveal:slide "Slide Title"```
-
-Available options:
-
- ```--markdown --attributes --notes```
+2015-06-05
+丹上寛之

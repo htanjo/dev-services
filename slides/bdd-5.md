@@ -2,17 +2,14 @@
 
 ```js
 describe('○○処理は', function () {
-
   it('◎◎対象を××状態にする', function () {
     処理内容のコード;
     expect(○○対象).to.be.××状態;
   });
-
   it('△△対象を□□状態にしない', function () {
     処理内容のコード;
     expect(△△対象).not.to.be.□□状態;
   });
-
 });
 ```
 

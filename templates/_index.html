@@ -20,10 +20,13 @@
         <link rel="stylesheet" href="bower_components/reveal.js/lib/css/zenburn.css" id="highlight-theme">
 
         <style>
-            @import url(http://fonts.googleapis.com/earlyaccess/notosansjapanese.css);
+            /*@import url(http://fonts.googleapis.com/earlyaccess/notosansjapanese.css);*/
             .reveal {
-                font-family: 'Noto Sans Japanese', sans-serif;
+                font-family: "Noto Sans Japanese", sans-serif;
                 font-weight: 250;
+            }
+            .reveal .slide-background {
+                background-color: #033f5b;
             }
             .reveal h1,
             .reveal h2,
@@ -31,7 +34,7 @@
             .reveal h4,
             .reveal h5,
             .reveal h6 {
-                font-family: 'Noto Sans Japanese', sans-serif;
+                font-family: "Noto Sans Japanese", sans-serif;
                 font-weight: 600;
                 text-transform: inherit;
             }
@@ -45,10 +48,23 @@
             .reveal code {
                 font-family: Consolas, monospace;
             }
+            .reveal pre {
+                font-size: 0.7em;
+            }
+            .reveal pre code {
+                background-color: rgba(0,0,0,0.2);
+            }
+            .reveal p code,
+            .reveal li code {
+                padding: 0.1em 0.2em;
+                vertical-align: middle;
+                color: #DCDCDC;
+                background-color: rgba(0,0,0,0.2);
+            }
             .reveal small {
                 vertical-align: middle;
                 line-height: 1.4;
-                color: #bbb;
+                color: rgba(255,255,255,0.7);
             }
         </style>
 

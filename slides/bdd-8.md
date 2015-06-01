@@ -1,6 +1,6 @@
 ### 実行環境
-- Webブラウザ :  
+- **Webブラウザ** :  
   ローカルのブラウザ、Sauce Labsのブラウザ
 
-- [PhantomJS](http://phantomjs.org/) :  
+- **[PhantomJS](http://phantomjs.org/)** :  
   GUIを持たない仮想ブラウザ

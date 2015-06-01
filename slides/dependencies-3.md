@@ -1,6 +1,5 @@
 ### david-dm.org
 <https://david-dm.org/>
 
-davidはオンラインサービスも展開しており、GitHub上のプロジェクトを解析してくれる。
-利用に登録は不要。
-david-dm.orgのページはpackage.jsonを読み取って自動生成されている。
+davidはオンラインサービスも展開していて、GitHub上のプロジェクトを解析してくれる。
+登録は不要で、package.jsonを読み取って自動的にレポートページが生成される。

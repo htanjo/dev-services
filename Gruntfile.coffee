@@ -89,7 +89,7 @@ module.exports = (grunt) ->
                 message: 'Built from %sourceCommit% on branch %sourceBranch%'
             pages:
                 options:
-                    remote: 'git@github.com:htanjo/open-services.git'
+                    remote: 'git@github.com:htanjo/dev-services.git'
                     branch: 'gh-pages'
 
 

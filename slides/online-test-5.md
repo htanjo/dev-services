@@ -1,16 +1,8 @@
-KarmaにはSauce Labs連携用の[karma-sauce-launcher](https://github.com/karma-runner/karma-sauce-launcher)プラグインがあり、簡単にセットアップできる。
+### ![Logo](img/logo-saucelabs.png) Sauce Labs
+<https://saucelabs.com/>
 
-`karma.conf.js`の設定（一部を抜粋）
-```js
-customLaunchers: {
-  'SL_IE_11': {
-    base: 'SauceLabs',
-    browserName: 'internet explorer',
-    platform: 'Windows 8.1',
-    version: '11'
-  },
-  // ...
-}
-```
+クロスプラットフォームのブラウザ検証ができる  
+オンラインサービス。通常は有料だが、  
+オープンソース開発に限定した無料のプランもある。
 
-<small>ローカルでのテストとは異なり、複数のOS・ブラウザのバージョンでテストが実行できる。</small>
+関連 : [BrowserStack](https://www.browserstack.com/)

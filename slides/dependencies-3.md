@@ -1,4 +1,4 @@
-### david-dm.org
+### ![Logo](img/david.png) david-dm.org
 <https://david-dm.org/>
 
 davidはオンラインサービスも展開していて、GitHub上のプロジェクトを解析してくれる。

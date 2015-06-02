@@ -1,4 +1,4 @@
-### Mocha
+### ![Logo](img/mocha.png) Mocha
 <http://mochajs.org/>
 
 ユニットテストのためのフレームワーク。

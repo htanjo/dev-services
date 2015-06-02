@@ -1,4 +1,4 @@
-### Sauce Labs
+### ![Logo](img/saucelabs.png) Sauce Labs
 <https://saucelabs.com/>
 
 クロスプラットフォームのブラウザチェックができるオンラインサービス。

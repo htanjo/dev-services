@@ -1,4 +1,4 @@
-### Coveralls
+### ![Logo](img/coveralls.png) Coveralls
 <https://coveralls.io/>
 
 カバレッジの情報を元に、解析結果を表示・通知してくれるオンラインサービス。

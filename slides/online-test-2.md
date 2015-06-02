@@ -1,4 +1,4 @@
-### Travis CI
+### ![Logo](img/travis.png) Travis CI
 <https://travis-ci.org/>
 
 GitHubとの連携に特化した、オンラインのCIサービス。

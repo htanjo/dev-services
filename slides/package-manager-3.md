@@ -1,4 +1,4 @@
-### Bower
+### ![Logo](img/bower.png) Bower
 <http://bower.io/>
 
 フロントエンド開発向けのパッケージマネージャ。

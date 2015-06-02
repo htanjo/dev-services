@@ -1,4 +1,4 @@
-### Shields.io
+### ![Logo](img/shields.png) Shields.io
 <http://shields.io/>
 
 各サービスは独自にバッジのURLを発行しているが、バッジのデザインに差異があったり、npmのようにバッジを提供していないサービスもある。

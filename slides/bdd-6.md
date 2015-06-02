@@ -1,4 +1,4 @@
-### Karma
+### ![Logo](img/karma.png) Karma
 <http://karma-runner.github.io/>
 
 Googleが中心となって開発しているテストランナー。  

@@ -1,4 +1,4 @@
-### Chai
+### ![Logo](img/chai.png) Chai
 <http://chaijs.com/>
 
 アサーション（「○○は××である」をチェックする）ライブラリ。AssertスタイルとBDDスタイル両方の記法に対応している。

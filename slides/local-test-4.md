@@ -1,5 +1,7 @@
 ### Karma Launcherの設定
 テストをどの環境で実行するか設定する。
+`$ karma start`でKarmaが起動する。
+
 ```sh
 # launcherプラグインのインストール
 $ npm install --save-dev karma-chrome-launcher karma-phantomjs-launcher
@@ -14,6 +16,6 @@ module.exports = function (config) {
   })
 };
 ```
-`$ karma start`でKarmaを起動できる。
 
-<small>このプロジェクトでは管理を一元化するため、gulpでKarmaを実行するように設定した。</small>
+<small>対象ブラウザはローカルにインストールされているものに限られる。  
+また、このプロジェクトでは管理を一元化するため、gulpでKarmaを実行するように設定した。</small>

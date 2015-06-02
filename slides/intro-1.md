@@ -1,5 +1,5 @@
 ### Dyframe
-動的なHTMLコードのプレビューを作成するライブラリ。
+動的なHTMLコードのプレビューを生成するライブラリ。
 
 ![Dyframe](img/ss-dyframe.png)
 

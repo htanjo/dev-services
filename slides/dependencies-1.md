@@ -1,5 +1,5 @@
 フロントエンドライブラリやnodeモジュールの開発では、  
 npmを使いさまざまなモジュールをインストールする。
 
-[david](https://github.com/alanshaw/david)というツールを使い、それらが最新版に保たれているか  
+[david](https://github.com/alanshaw/david)というツールを使い、それらが最新に保たれているか  
 チェックすることができる。
